@@ -1,8 +1,8 @@
-# 🚀 Azouggi - Digital Solutions Agency
+# Azouggi - Digital Solutions Agency
 
 Welcome to **Azouggi**! We're a software development agency based in Mauritania, specializing in turning ideas into powerful digital solutions.
 
-## 💼 Our Services
+## Our Services
 
 - 🌐 **Web Development** - Modern, scalable web applications
 - 📱 **Mobile Apps** - Native and hybrid iOS/Android applications
@@ -11,7 +11,7 @@ Welcome to **Azouggi**! We're a software development agency based in Mauritania,
 - 💡 **Consulting** - Expert technology strategy consulting
 - ☁️ **Cloud Solutions** - AWS, Azure, and Google Cloud services
 
-## 🎯 Why Choose Us?
+## Why Choose Us?
 
 - ✅ Agile methodology for fast delivery
 - ✅ Experienced development team
@@ -19,7 +19,7 @@ Welcome to **Azouggi**! We're a software development agency based in Mauritania,
 - ✅ Dedicated technical support
 - ✅ Client-focused approach
 
-## 📫 Get In Touch
+## Get In Touch
 
 - 🌐 Website: [Coming Soon]
 - 📧 Email: [your-email]
